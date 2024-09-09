@@ -1,0 +1,8 @@
+[
+    {
+        "identifier": "help",
+        "type": "help",
+        "availability": "all",
+        "description": "to get all the commands"
+    }
+]

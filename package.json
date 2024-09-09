@@ -1,0 +1,15 @@
+{
+  "name": "youtube-livestream-bot",
+  "version": "1.0.0",
+  "description": "a bot which will monitor livestream messages to execute some commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tushar",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "googleapis": "^144.0.0"
+  }
+}
